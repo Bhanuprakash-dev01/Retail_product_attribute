@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "product_id": "P1001",
+      "title": "Wireless Noise Cancelling Headphones",
+      "brand": "SoundWave",
+      "category": "Headphones",
+      "attributes": {
+        "brand": "SoundWave",
+        "color": "Black",
+        "battery_life": "10 hours",
+        "connectivity": "Bluetooth",
+        "weight": "250g",
+        "warranty": "1 year"
+      },
+      "description": "Premium wireless headphones with active noise cancellation and up to 40 hours battery life."
+    },
+    {
+      "product_id": "P1002",
+      "title": "14-inch Business Laptop",
+      "brand": "NovaTech",
+      "category": "Laptops",
+      "attributes": {
+        "brand": "NovaTech",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "screen_size": "14 inch",
+        "processor": "Intel Core i7",
+        "operating_system": "Windows 11"
+      },
+      "description": "Thin business laptop designed for productivity and travel."
+    },
+    {
+      "product_id": "P1003",
+      "title": "Smartphone Pro Max",
+      "brand": "Orbit",
+      "category": "Mobile Phones",
+      "attributes": {
+        "brand": "Orbit",
+        "battery_life": "500 hours",
+        "color": "Blue",
+        "weight": "190g"
+      },
+      "description": "6.7-inch smartphone with long battery life."
+    }
+  ]
+}

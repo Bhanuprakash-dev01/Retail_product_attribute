@@ -1,0 +1,17 @@
+{
+  "Headphones": {
+    "required": ["brand", "connectivity", "battery_life", "weight"],
+    "optional": ["color", "warranty"],
+    "allowed_attributes": ["brand", "model", "battery_life", "connectivity", "color", "weight", "warranty"]
+  },
+  "Laptops": {
+    "required": ["brand", "processor", "ram", "storage", "screen_size", "operating_system"],
+    "optional": ["color", "weight", "keyboard_type", "warranty"],
+    "allowed_attributes": ["brand", "model", "processor", "ram", "storage", "screen_size", "operating_system", "color", "weight", "keyboard_type", "warranty"]
+  },
+  "Mobile Phones": {
+    "required": ["brand", "model", "battery_life", "screen_size"],
+    "optional": ["color", "weight", "storage", "connectivity"],
+    "allowed_attributes": ["brand", "model", "battery_life", "screen_size", "color", "weight", "storage", "connectivity"]
+  }
+}

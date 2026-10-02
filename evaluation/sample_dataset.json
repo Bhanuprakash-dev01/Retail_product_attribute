@@ -1,0 +1,22 @@
+{
+  "cases": [
+    {
+      "product_id": "E001",
+      "category": "Headphones",
+      "notes": "Normal case",
+      "expected_quality": "GOOD"
+    },
+    {
+      "product_id": "E002",
+      "category": "Headphones",
+      "notes": "Missing battery life",
+      "expected_quality": "NEEDS_REVIEW"
+    },
+    {
+      "product_id": "E003",
+      "category": "Laptops",
+      "notes": "Conflicting battery life",
+      "expected_quality": "NEEDS_REVIEW"
+    }
+  ]
+}
